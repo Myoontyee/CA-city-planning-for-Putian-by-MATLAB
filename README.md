@@ -1,5 +1,5 @@
 # Thanks to
-CSDN id: SoaringLee_fighting , 爱睡觉的小飞猪,...
+SoaringLee_fighting , 爱睡觉的小飞猪,...
 # CA-city-planning-for-Putian-by-MATLAB
 CA city planning for Putian_MATLAB
 # Environment
